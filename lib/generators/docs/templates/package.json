@@ -16,7 +16,6 @@
   "devDependencies": {
     "vuepress": "next",
     "@vuepress/plugin-back-to-top": "next",
-    "@vuepress/plugin-medium-zoom": "next",
-    "@alipay/vuepress-plugin-basement": "latest"
+    "@vuepress/plugin-medium-zoom": "next"
   }
 }
