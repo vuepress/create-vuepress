@@ -1,0 +1,20 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.1",
+  "description": "<%= description %>",
+  "main": "index.js",
+  "authors": {
+    "name": "<%= author %>",
+    "email": "<%= mail %>"
+  },
+  "repository": "<%= repo %>/<%= name %>",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "next",
+    "@vuepress/theme-blog": "1.0.0-alpha.49"
+  }
+}
