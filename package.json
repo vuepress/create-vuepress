@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Scaffolding a VuePress project",
   "files": [
-    "dist"
+    "lib",
+    "cli.js",
+    "index.js"
   ],
   "bin": {
     "create-vuepress": "cli.js"
