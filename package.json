@@ -1,6 +1,6 @@
 {
   "name": "create-vuepress",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Scaffolding a VuePress project",
   "main": "dist/createVuepress.cjs.js",
   "files": [
