@@ -15,6 +15,6 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "next",
-    "@vuepress/theme-blog": "1.0.0-alpha.49"
+    "@vuepress/theme-blog": "latest"
   }
 }
