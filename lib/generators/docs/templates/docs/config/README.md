@@ -4,12 +4,12 @@ sidebar: auto
 
 # Config
 
-## a
+## foo
 
 - Type: `string`
 - Default: `/`
 
-## b
+## bar
 
 - Type: `string`
 - Default: `/`
