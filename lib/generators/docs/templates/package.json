@@ -14,8 +14,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "next",
-    "@vuepress/plugin-back-to-top": "next",
-    "@vuepress/plugin-medium-zoom": "next"
+    "vuepress": "^1.0.0",
+    "@vuepress/plugin-back-to-top": "^1.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0"
   }
 }
