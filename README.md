@@ -12,6 +12,8 @@ Scaffolding a VuePress project
 $ yarn create vuepress [appName]
 ```
 
+Please be sure to `cd [appName]` and run `yarn` to install dependencies.
+
 ## Boilerplates
 
 * `docs` - Create a documentation project with VuePress.
