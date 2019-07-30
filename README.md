@@ -2,7 +2,7 @@
 
 Scaffolding a VuePress project
 
-[![NPM version](https://badgen.net/npm/v/create-vuepress)](https://npmjs.com/package/create-vuepress) [![NPM downloads](https://badgen.net/npm/dm/create-vuepress)](https://npmjs.com/package/create-vuepress)
+[![NPM version](https://badgen.net/npm/v/create-vuepress)](https://npmjs.com/package/create-vuepress) [![NPM downloads](https://badgen.net/npm/dm/create-vuepress)](https://npmjs.com/package/create-vuepress) [![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/create-vuepress.svg)](https://greenkeeper.io/)
 
 ## Usage
 
