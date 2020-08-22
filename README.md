@@ -1,4 +1,6 @@
-# create-vuepress
+# create-vuepress (Archived)
+
+> :warning: **This project is now deprecated in favor of [create-vuepress-site](https://github.com/vuepressjs/create-vuepress-site)**
 
 Scaffolding a VuePress project
 
@@ -16,8 +18,8 @@ Please be sure to `cd [appName]` and run `yarn` to install dependencies.
 
 ## Boilerplates
 
-* `docs` - Create a documentation project with VuePress.
-* `blog` - Create a blog project with VuePress.
+- `docs` - Create a documentation project with VuePress.
+- `blog` - Create a blog project with VuePress.
 
 ## Contributing
 
@@ -33,10 +35,9 @@ Please be sure to `cd [appName]` and run `yarn` to install dependencies.
 
 - [create-umi](https://github.com/umijs/create-umi) (Direct reuse of scaffolding functions of the library.)
 
-
 ## Author
 
 **create-vuepress** © [ULIVZ](https://github.com/ulivz), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by ULIVZ with help from contributors ([list](https://github.com/ulivz/create-vuepress/contributors)).
 
-> [github.com/ulivz](https://github.com/ulivz) · GitHub [@ULIVZ](https://github.com/ulivz) · Twitter [@_ulivz](https://twitter.com/_ulivz)
+> [github.com/ulivz](https://github.com/ulivz) · GitHub [@ULIVZ](https://github.com/ulivz) · Twitter [@\_ulivz](https://twitter.com/_ulivz)
